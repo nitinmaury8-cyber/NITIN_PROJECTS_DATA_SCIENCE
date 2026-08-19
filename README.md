@@ -42,7 +42,7 @@ The dataset contains **3,000 student records** and **15 columns**.
 - Pandas
 - Matplotlib
 - Seaborn
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ## Analysis Performed
 
